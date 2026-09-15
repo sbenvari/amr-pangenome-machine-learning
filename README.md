@@ -14,7 +14,7 @@ Antimicrobial resistance genes were identified for each isolate using AMRFinderP
 
 For each isolate, the total number of detected AMR genes was calculated to obtain an AMR burden score.
 
-The distribution of AMR gene counts across the 2,262 isolates was then examined. Isolates carrying 8 or more AMR genes were classified as having a high AMR burden, while isolates with fewer than 8 AMR genes were classified as the lower-burden group.
+The distribution of AMR gene counts across the isolates was then examined. Isolates carrying 8 or more AMR genes were classified as having a high AMR burden, while isolates with fewer than 8 AMR genes were classified as the lower-burden group.
 
 This produced a binary outcome used for supervised classification:
 
