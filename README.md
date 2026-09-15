@@ -31,6 +31,8 @@ Three supervised learning approaches were compared:
 - Random Forest
 - Neural network
 
+Two neural-network variants were implemented—an original model and a regularized model—resulting in four fitted models in total.
+
 ## Evaluation
 
 Models were evaluated using:
