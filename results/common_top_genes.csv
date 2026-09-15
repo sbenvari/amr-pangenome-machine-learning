@@ -1,0 +1,8 @@
+gene,annotation / interpretation
+group_9324,TetR/AcrR family transcriptional regulator; likely MphR(A)-like macrolide-binding repressor
+group_2513,IS256 family transposase IS406
+emrE_3~~~emrE_1~~~ebrA~~~emrE_2~~~mdtJ_2~~~qacC,Multidrug/small multidrug resistance efflux transporter cluster; includes EmrE/EbrA/MdtJ/QacC-like proteins
+group_9351,"MucR, bifunctional diguanylate cyclase / cyclic-di-GMP phosphodiesterase"
+tnpR,"Tn3-family resolvase, associated with transposition/mobile genetic elements"
+group_302,Hypothetical protein; function still unresolved
+group_9177,GNAT family N-acetyltransferase
