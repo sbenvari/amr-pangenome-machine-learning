@@ -2,8 +2,7 @@
 
 In this analysis, we aimed to identify genes that could distinguish isolates
 carrying a high number of AMR genes (≥8 AMR genes).
-High-AMR-burden isolates represented approximately 15.3% of the dataset
-(346 of 2,262 isolates), while the remaining 1,916 isolates were classified
+High-AMR-burden isolates represented approximately 15.3% of the dataset, while the remaining 1,916 isolates were classified
 as lower burden.
 
 Four models were evaluated for this purpose:
