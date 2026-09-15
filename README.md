@@ -1,16 +1,16 @@
 # AMR Pangenome Machine Learning
 
-Machine-learning analysis of antimicrobial resistance burden in *Escherichia coli* using pangenome gene presence/absence data.
+Machine-learning analysis of antimicrobial resistance (AMR) burden in *Escherichia coli* using pangenome gene presence/absence data.
 
 ## Project overview
 
-This project investigates whether non-AMR pangenome features can predict high antimicrobial resistance burden in *E. coli*.
+This project investigates whether non-AMR pangenome features can predict high AMR burden in *E. coli*.
 
 The dataset contains a representative subset of publicly available E. coli isolates, with approximately 45,000 pangenome gene clusters generated using Panaroo. AMR determinants used to define the outcome were removed from the predictor matrix to reduce target leakage.
 
 ## Outcome definition
 
-Antimicrobial resistance genes were identified for each isolate using AMRFinderPlus.
+AMR genes were identified for each isolate using AMRFinderPlus.
 
 For each isolate, the total number of detected AMR genes was calculated to obtain an AMR burden score.
 
